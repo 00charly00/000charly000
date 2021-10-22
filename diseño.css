@@ -1,0 +1,38 @@
+body{
+	font-family:courier,,helvética;
+	background: #125688;
+
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #FFFF00;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+
+.menu li a{
+	text-decoration: none; 
+	color:black;
+	padding: 20px;
+	display: block;
+
+}
+.menu li {
+	display: inline-block;
+	text-align: center;
+
+}
+.menu li a:hover{
+	background: #2A6DBC
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(img/1.png);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
